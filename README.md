@@ -1,8 +1,8 @@
-install ripgrep:
+# *install ripgrep:*
 
 sudo apt install ripgrep
 
-install gcc:
+# *install gcc:*
 
 sudo apt update
 
