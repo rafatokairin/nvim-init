@@ -22,4 +22,6 @@ sudo ln -s /opt/nvim/nvim /usr/local/bin/nvim
 
 # *install pynvim:*
 
+sudo apt install unzip
+
 sudo apt install python3-pynvim -y
