@@ -19,3 +19,7 @@ cat ~/.ssh/id_ed25519.pub
 
 # *link nvim:*
 sudo ln -s /opt/nvim/nvim /usr/local/bin/nvim
+
+# *install pynvim:*
+
+sudo apt install python3-pynvim -y
