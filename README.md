@@ -37,3 +37,9 @@ sudo apt install unzip
 
 sudo apt install python3-pynvim -y
 ```
+
+## cfg right button mousepad:
+
+```
+gsettings set org.gnome.desktop.peripherals.touchpad click-method areas
+```
