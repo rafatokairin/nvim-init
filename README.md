@@ -43,3 +43,23 @@ sudo apt install python3-pynvim -y
 ```
 gsettings set org.gnome.desktop.peripherals.touchpad click-method areas
 ```
+
+## cfg cedilla:
+
+```
+nvim ~/.XCompose
+
+include "%L"
+
+<dead_acute> <c> : "ç" U00E7
+
+<dead_acute> <C> : "Ç" U00C7
+```
+
+## coderoot:
+
+```
+echo "alias coderoot='sudo -E code --user-data-dir=/tmp/vscode-root --no-sandbox'" >> ~/.bashrc
+
+source ~/.bashrc
+```
