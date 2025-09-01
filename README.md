@@ -50,9 +50,7 @@ gsettings set org.gnome.desktop.peripherals.touchpad click-method areas
 nvim ~/.XCompose
 
 include "%L"
-
 <dead_acute> <c> : "ç" U00E7
-
 <dead_acute> <C> : "Ç" U00C7
 ```
 
